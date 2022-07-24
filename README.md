@@ -1,7 +1,7 @@
 Hi! I'm Leeman.
 - 🐝 Game design student @ University of Baltimore
-- 🌱 Currently learning C# && Unity Engine
-- 📫 @notaboxofjuice on all socials
+- 🌱 Currently learning Unreal Engine
+- 📫 @notaboxofjuice on [Twitter](https://twitter.com/notaboxofjuice) and [Instagram](https://instagram.com/notaboxofjuice)
 
 Find me:
 - 🎮 Play my games on [itch.io](https://notaboxofjuice.itch.io)
