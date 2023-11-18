@@ -12,10 +12,6 @@
 - 📺 Watch my videos on [YouTube](https://www.youtube.com/channel/UCTWeuKSEE43_JkrgPveYKHg)
 - 🎵 Listen to my music on [SoundCloud](https://soundcloud.com/atlasetiquette) and [Bandcamp](https://politeness.bandcamp.com)
 
-# CV
-
-[Resume Harrington Game Designer.odt](https://github.com/notaboxofjuice/notaboxofjuice/files/13401044/Resume.Harrington.Game.Designer.odt)
-
 # Misc
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L1R5PS5)
