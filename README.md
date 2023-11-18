@@ -1,6 +1,7 @@
 # [![itch.io](https://img.itch.zone/aW1nLzE0MDM2NjMxLnBuZw==/35x35%23/KEmU7F.png)](https://notaboxofjuice.itch.io) Daniel "Leeman" Harrington
 
 > Filipino-American first-gen college student and game designer/programmer. Passionate about systemic gameplay and interesting problems. Projected to complete a Bachelor of Science in Simulation and Game Design at the University of Baltimore in spring 2024.
+
 - 🔮 Game designer/developer
 - 🌱 Working in Unity, learning Unreal & Godot
 - 📫 @notaboxofjuice on [Twitter](https://twitter.com/notaboxofjuice), [Instagram](https://instagram.com/notaboxofjuice), & [TikTok](https://www.tiktok.com/@notaboxofjuice)
