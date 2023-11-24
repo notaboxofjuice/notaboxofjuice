@@ -4,14 +4,12 @@
 
 - 🔮 Game designer/developer
 - 🌱 Working in Unity, learning Unreal & Godot
-- 📫 @notaboxofjuice on [Twitter](https://twitter.com/notaboxofjuice), [Instagram](https://instagram.com/notaboxofjuice), & [TikTok](https://www.tiktok.com/@notaboxofjuice)
 
 # Find me:
 
+- 📫 @notaboxofjuice on [Twitter](https://twitter.com/notaboxofjuice), [Instagram](https://instagram.com/notaboxofjuice), & [TikTok](https://www.tiktok.com/@notaboxofjuice)
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/leemanh/)
 - 🎮 Play my games on [itch.io](https://notaboxofjuice.itch.io/)
-- 📺 Watch my videos on [YouTube](https://www.youtube.com/channel/UCTWeuKSEE43_JkrgPveYKHg)
-- 🎵 Listen to my music on [SoundCloud](https://soundcloud.com/atlasetiquette) and [Bandcamp](https://politeness.bandcamp.com)
 
 # Misc
 
